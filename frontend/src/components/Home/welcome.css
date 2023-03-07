@@ -35,7 +35,7 @@
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("/Users/abhishekkhande/Documents/Personal Work/React Practice/MernStack/frontend/public/Images/bus-stop.png");
+  /* background-image: url("/Users/abhishekkhande/Documents/Personal Work/React Practice/MernStack/frontend/public/Images/bus-stop.png"); */
 }
 #Flights {
   height: 100%;
@@ -43,7 +43,7 @@
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("/Users/abhishekkhande/Documents/Personal Work/React Practice/MernStack/frontend/public/Images/departures.png");
+  /* background-image: url("/Users/abhishekkhande/Documents/Personal Work/React Practice/MernStack/frontend/public/Images/departures.png"); */
 }
 #Movies {
   height: 100%;
@@ -51,7 +51,7 @@
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("/Users/abhishekkhande/Documents/Personal Work/React Practice/MernStack/frontend/public/Images/movie.png");
+  /* background-image: url("/Users/abhishekkhande/Documents/Personal Work/React Practice/MernStack/frontend/public/Images/movie.png"); */
 }
 #Hotels {
   height: 100%;
@@ -59,7 +59,7 @@
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("/Users/abhishekkhande/Documents/Personal Work/React Practice/MernStack/frontend/public/Images/resort.png");
+  /* background-image: url("/Users/abhishekkhande/Documents/Personal Work/React Practice/MernStack/frontend/public/Images/resort.png"); */
 }
 #Train {
   height: 100%;
@@ -67,7 +67,7 @@
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("/Users/abhishekkhande/Documents/Personal Work/React Practice/MernStack/frontend/public/Images/high-speed-train.png");
+  /* background-image: url("/Users/abhishekkhande/Documents/Personal Work/React Practice/MernStack/frontend/public/Images/high-speed-train.png"); */
 }
 #Concerts {
   height: 100%;
@@ -75,5 +75,5 @@
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("/Users/abhishekkhande/Documents/Personal Work/React Practice/MernStack/frontend/public/Images/festival.png");
+  /* background-image: url("/Users/abhishekkhande/Documents/Personal Work/React Practice/MernStack/frontend/public/Images/festival.png"); */
 }
