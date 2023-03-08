@@ -6,6 +6,7 @@ import { reset, login } from "../../features/auth/authSlice";
 import { toast } from "react-toastify";
 import { useNavigate } from "react-router-dom";
 import { useSelector, useDispatch } from "react-redux";
+import Spinner from "../spinner/Spinner";
 export const Login = () => {
   const navigate = useNavigate();
   const dispatch = useDispatch();
@@ -66,10 +67,11 @@ export const Login = () => {
   //     console.log(error);
   //   }
   // };
+
   return (
     <>
       {<View />}
-      {error && <Error errorMessage={error} />}
+      {isLoading && <Spinner />}
       <div className="Login-div">
         <div className="username-password">
           Log In
